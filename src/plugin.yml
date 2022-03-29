@@ -1,0 +1,20 @@
+main: Main.PrimerPlugin
+version: 1.0.1
+name: PrimerPlugin
+author: miguelbe00
+
+commands:
+    Help:
+        descripcion: Te muestra los comandos y sus funciones
+    Creador:
+        descripcion: Muestra el creador del plugin 
+    Version:
+        descripcion: Muestra la version utilizada del plugin
+    SetSpawn:
+        descripcion : Guarda las coordenadas donde se crear el spawn
+    Spawn:
+        descripcion: Te teletransporta al spawn
+    Reload:
+        descripcion: Recarga el plugin
+    pp:
+        descripcio: Comando principal del plugin
